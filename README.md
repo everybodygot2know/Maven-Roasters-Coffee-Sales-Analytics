@@ -65,7 +65,7 @@ Data Overview:
 
 **Business Recommendations**
 
-* Apply Newsvendor logic for high-variability products (coffee, bakery) to better manage stockout risk and overstock costs.
+* Apply Newsvendor model for high-variability & perishable products (e.g. coffee, bakery) to better manage stockout risk and overstock costs.
 * Utilize Monte Carlo simulation into planning processes to stress-test inventory decisions under uncertainty.
 * Implement location-specific inventory policies rather than using uniform approach.
 
