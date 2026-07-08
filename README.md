@@ -5,19 +5,15 @@ Original data source: https://www.kaggle.com/datasets/agungpambudi/trends-produc
 
 The data records & "Maven Roasters" are fictional entity
 
-**Key Analyses:**
+**Key Analysis:**
 
-• Data Overview: Cleaned and organized large dataset with Data Dictionary, summary statistics, and business insights
+* Data Overview: Cleaned and organized large dataset with Data Dictionary, summary statistics, and business insights
+* Inventory Optimization: Built EOQ, Safety Stock, and Newsvendor models to balance ordering costs, holding costs, and stockout risk
+* Demand Forecasting: Developed Moving Average and Exponential Smoothing (α = 0.1 & 0.5) models for weekly demand prediction
+* Risk Analysis: Conducted Monte Carlo simulation (1,000 trials) to evaluate profit variability and stockout probability
+* Interactive Dashboard: Visualizations, KPIs, and slicers for real-time decision-making
 
-• Inventory Optimization: Built EOQ, Safety Stock, and Newsvendor models to balance ordering costs, holding costs, and stockout risk
-
-• Demand Forecasting: Developed Moving Average and Exponential Smoothing (α = 0.1 & 0.5) models for weekly demand prediction
-
-• Risk Analysis: Conducted Monte Carlo simulation (1,000 trials) to evaluate profit variability and stockout probability
-
-• Interactive Dashboard: Dynamic visualizations, KPIs, and slicers for real-time decision-making
-
-## Project Highlights ☕
+## Project Highlights 
 
 ### Interactive Excel Dashboard
 <img width="1358" height="443" alt="{41C9EC8E-C4B3-4FAD-B3CF-0711A3B449FC}" src="https://github.com/user-attachments/assets/97e5e0fa-2714-4ee8-acfe-87904c4b812c" />
@@ -40,6 +36,5 @@ The data records & "Maven Roasters" are fictional entity
 
 
 
-This portfolio is to demonstrate my strong Excel modeling, forecasting, statistical analysis, and supply chain optimization skills.
 
 Created by Walter Keel | July 2026
